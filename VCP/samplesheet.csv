@@ -1,0 +1,6 @@
+sample,fastq_1,fastq_2
+sample_01,/scale_wlg_nobackup/filesets/nobackup/uoo03398/VCP/files/sample_01_R1.fastq,/scale_wlg_nobackup/filesets/nobackup/uoo03398/VCP/files/sample_01_R2.fastq
+sample_02,/scale_wlg_nobackup/filesets/nobackup/uoo03398/VCP/files/sample_02_R1.fastq,/scale_wlg_nobackup/filesets/nobackup/uoo03398/VCP/files/sample_02_R2.fastq
+sample_03,/scale_wlg_nobackup/filesets/nobackup/uoo03398/VCP/files/sample_03_R1.fastq,/scale_wlg_nobackup/filesets/nobackup/uoo03398/VCP/files/sample_03_R2.fastq
+sample_04,/scale_wlg_nobackup/filesets/nobackup/uoo03398/VCP/files/sample_04_R1.fastq,/scale_wlg_nobackup/filesets/nobackup/uoo03398/VCP/files/sample_04_R2.fastq
+sample_05,/scale_wlg_nobackup/filesets/nobackup/uoo03398/VCP/files/sample_05_R1.fastq,/scale_wlg_nobackup/filesets/nobackup/uoo03398/VCP/files/sample_05_R2.fastq

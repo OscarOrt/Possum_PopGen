@@ -1,0 +1,6 @@
+# Script to perform variant calling
+module load Nextflow
+module load FastQC
+module load MultiQC
+module load TrimGalore
+module load BWA
